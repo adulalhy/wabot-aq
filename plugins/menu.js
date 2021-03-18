@@ -87,7 +87,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
 │ Github:
-│ %github
+│ https://github.com/adulalhy/wabot-aq
 ╰────
 %readmore`
     let header = conn.menu.header || '╭─「 %category 」'
